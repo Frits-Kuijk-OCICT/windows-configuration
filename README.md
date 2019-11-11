@@ -1,7 +1,7 @@
 # windows-configuration
 How to get a windows system prepared for a course environment
 
-Adding 'Open Command Window Here' to Windows 10 Context Menu. https://www.itprotoday.com/windows-10/add-open-command-window-here-windows-10-context-menu
+Add 'Open Command Window Here' to Windows 10 Context Menu. https://www.itprotoday.com/windows-10/add-open-command-window-here-windows-10-context-menu
 1. Press Windows key and + R from the keyboard to open the Run command. Type regedit and then hit enter from the keyboard to open the registry.
 2. Go to the following path: HKEY_CLASSES_ROOT\Directory\shell\cmd. Right-click the cmd key. Scroll to Permissions and then click it.
 3. Click Advanced.
